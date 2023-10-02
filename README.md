@@ -21,7 +21,20 @@ I have experience with technologies linked to the JavaScript world, such as Reac
 ![CSS3](https://img.shields.io/badge/-CSS3-354f52?style=flat-square&logo=css3)
 ![React](https://img.shields.io/badge/-React-354f52?style=flat-square&logo=react)
 ![MySQL](https://img.shields.io/badge/-MySQL-354f52?style=flat-square&logo=mysql)
+![Tailwind css](https://img.shields.io/badge/-Tailwind%20css-354f52?style=flat-square&logo=tailwindcss)
+![Mantine UI](https://img.shields.io/badge/-Mantine%20UI-354f52?style=flat-square&logo=mantine)
+![MUI](https://img.shields.io/badge/-Material%20UI-354f52?style=flat-square&logo=mui)
+![Prisma ORM](https://img.shields.io/badge/-Prisma%20ORM-354f52?style=flat-square&logo=prisma)
+![Apollo Server](https://img.shields.io/badge/-Apollo%20Server-354f52?style=flat-square&logo=apollographql)
+![Firebase](https://img.shields.io/badge/-Firebase-354f52?style=flat-square&logo=firebase)
+![Googe Cloud](https://img.shields.io/badge/-Google%20Cloud-354f52?style=flat-square&logo=googlecolab)
+![Jira](https://img.shields.io/badge/-Jira-354f52?style=flat-square&logo=jira)
+![Webpack](https://img.shields.io/badge/-Webpack-354f52?style=flat-square&logo=webpack)
   
+
+
+
+
 
  #### Contact
  
