@@ -9,7 +9,7 @@ I have experience with technologies linked to the JavaScript world, such as Reac
 #### 💻 I work using:
  
 ![Typescript](https://img.shields.io/badge/-Typescript-354f52?style=flat-square&logo=typescript)
-![NextJS](https://img.shields.io/badge/-NextJS-354f52?style=flat-square&logo=next)
+![NextJS](https://img.shields.io/badge/-NextJS-354f52?style=flat-square&logo=nextjs)
 ![NodeJS](https://img.shields.io/badge/-NodeJS-354f52?style=flat-square&logo=Node.js)
 ![NestJS](https://img.shields.io/badge/-NestJS-354f52?style=flat-square&logo=nestjs)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-354f52?style=flat-square&logo=postgresql)
