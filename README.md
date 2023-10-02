@@ -13,7 +13,9 @@ I have experience with technologies linked to the JavaScript world, such as Reac
 ![NodeJS](https://img.shields.io/badge/-NodeJS-354f52?style=flat-square&logo=Node.js)
 ![NestJS](https://img.shields.io/badge/-NestJS-354f52?style=flat-square&logo=nestjs)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-354f52?style=flat-square&logo=postgresql)
+![Vercel](https://img.shields.io/badge/-Vercel-354f52?style=flat-square&logo=vercel)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-354f52?style=flat-square&logo=visual-studio-code)
+![Jira](https://img.shields.io/badge/-Jira-354f52?style=flat-square&logo=jira)
   
 ##### ⚙️ I also use: 
 
@@ -29,9 +31,7 @@ I have experience with technologies linked to the JavaScript world, such as Reac
 ![Apollo Server](https://img.shields.io/badge/-Apollo%20Server-354f52?style=flat-square&logo=apollographql)
 ![Firebase](https://img.shields.io/badge/-Firebase-354f52?style=flat-square&logo=firebase)
 ![Googe Cloud](https://img.shields.io/badge/-Google%20Cloud-354f52?style=flat-square&logo=googlecolab)
-![Jira](https://img.shields.io/badge/-Jira-354f52?style=flat-square&logo=jira)
 ![Webpack](https://img.shields.io/badge/-Webpack-354f52?style=flat-square&logo=webpack)
-![Vercel](https://img.shields.io/badge/-Vercel-354f52?style=flat-square&logo=vercel)
   
 
 
