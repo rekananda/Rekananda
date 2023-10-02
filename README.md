@@ -19,8 +19,9 @@ I have experience with technologies linked to the JavaScript world, such as Reac
 
 ![HTML5](https://img.shields.io/badge/-HTML5-354f52?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-354f52?style=flat-square&logo=css3)
-![React](https://img.shields.io/badge/-React-354f52?style=flat-square&logo=react)
 ![MySQL](https://img.shields.io/badge/-MySQL-354f52?style=flat-square&logo=mysql)
+![ReactJS](https://img.shields.io/badge/-ReactJS-354f52?style=flat-square&logo=react)
+![VueJS](https://img.shields.io/badge/-VueJS-354f52?style=flat-square&logo=vuedotjs)
 ![Tailwind css](https://img.shields.io/badge/-Tailwind%20css-354f52?style=flat-square&logo=tailwindcss)
 ![Mantine UI](https://img.shields.io/badge/-Mantine%20UI-354f52?style=flat-square&logo=mantine)
 ![MUI](https://img.shields.io/badge/-Material%20UI-354f52?style=flat-square&logo=mui)
@@ -30,6 +31,7 @@ I have experience with technologies linked to the JavaScript world, such as Reac
 ![Googe Cloud](https://img.shields.io/badge/-Google%20Cloud-354f52?style=flat-square&logo=googlecolab)
 ![Jira](https://img.shields.io/badge/-Jira-354f52?style=flat-square&logo=jira)
 ![Webpack](https://img.shields.io/badge/-Webpack-354f52?style=flat-square&logo=webpack)
+![Vercel](https://img.shields.io/badge/-Vercel-354f52?style=flat-square&logo=vercel)
   
 
 
